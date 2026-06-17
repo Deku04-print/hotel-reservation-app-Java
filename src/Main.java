@@ -5,11 +5,7 @@ import static Model.Customer.isValidEmail;
 public class Main {
     public static void main(String[] args) {
 
-        String mail = "janDoe123@gmaoil.com";
 
-        boolean valid = isValidEmail(mail);
-
-        System.out.println((valid));
 
 
     }
