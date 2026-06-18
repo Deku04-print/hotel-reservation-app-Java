@@ -19,4 +19,9 @@ public class Reservation {
         this.checkInDate = checkInDate;
         this.checkOutDate = checkOutDate;
     }
+
+
+    public Customer getCustomer() {
+        return customer;
+    }
 }
